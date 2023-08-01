@@ -3,7 +3,7 @@ For your final practical project and for many instances in the future, you will 
 example, today you will work with a PlayingCard class, which has two variables associated with it: `suit` and `rank`. The compiler has no idea how to sort the 
 PlayingCard objects, so you will need to tell it how to compare them. You will write two different `compareTo()` methods that will compare the Cards by `suit` and `rank`.
 
-For ease of access, here is the [javadoc](https://github.com/CSU-CompSci-CS163-4/Lab19SortingApples) <- update this link once it exists
+For ease of access, here is the [javadoc](https://csu-compsci-cs163-4.github.io/Lab19PlayingCards/)
 
 ## Step 1: Getting Started
 There are three methods you will be working on today: `compareTo`, `compareRank`, and `compareSuit`. `compareTo` will call the other two methods. All of it is completed
